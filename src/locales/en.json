@@ -1,0 +1,86 @@
+{
+    "messages": {
+        "welcome": "Welcome to our pizzeria! To place an order, log in and enjoy.",
+        "welcome-in": "The best pizza in your city!",
+        "enterMessage": "Please register or sign-in to use the services",
+        "products": "Products list",
+        "filters": "Filters",
+        "empty": "The cart is empty",
+        "total": "Total price",
+        "no-result": "No result",
+        "not-found": "Sorry, we couldn't find this page",
+        "error": "Internal server error",
+        "description": "Description",
+        "enter": "Enter your password to access this website",
+        "sign-in-text": "If you have an account please",
+        "google": "Login with Google acc.",
+        "wrong-message": "Incorrect email or password",
+        "email-in": "This user is registered",
+        "editor": "Edit Page",
+        "contact-msg": "Contact Us",
+        "contact-info": "To order, please contact us by phone:",
+        "to-cart-msg": "Items added to the cart successfully :) If you want continue to shopping please click 'CONTINUE SHOPPING'. To place an order, click on 'GO TO THE CART'"
+    },
+    "actionTitles": {
+        "login": "Login",
+        "logout": "Logout",
+        "addItem": "Add product",
+        "addToCart": "Add to cart",
+        "cancel": "Cancel",
+        "imgSrc": "image source",
+        "titleEn": "title in english",
+        "titleUa": "title in ukrainian",
+        "category": "category from 1 to 4",
+        "rating": "rating from 1 to 5",
+        "brand": "brand",
+        "price": "Price",
+        "seller": "seller",
+        "link": "link",
+        "back": "Back to products",
+        "delete": "Delete",
+        "type": "Dough",
+        "size": "Size",
+        "description": "Description",
+        "close": "Close",
+        "email": "Email",
+        "password": "Password",
+        "register": "Register",
+        "sign-in": "sign in",
+        "page-update": "Update the page",
+        "continue": "Continue shopping",
+        "to-cart": "Go to the cart",
+        "total-price": "Total price",
+        "order": "Place the order",
+        "done": "Done"
+    },
+    "nav": {
+        "main": "Main",
+        "products": "Pizzas",
+        "users": "Users",
+        "contacts": "Contacts",
+        "orders": "Orders"
+    },
+    "filters": {
+        "seller": "Seller",
+        "brand": "Brand",
+        "alphabet": "Alphabetic order",
+        "search": "Search",
+        "clear": "Clear filters",
+        "imgSrc": "image source",
+        "titleEn": "title in english",
+        "titleUa": "title in ukrainian",
+        "category": "category from 1 to 4",
+        "rating": "rating from 1 to 5"
+    },
+    "pages": {
+        "users": {
+            "fields": {
+                "email": "Email",
+                "create": "Crteate",
+                "read": "Read",
+                "update": "Update",
+                "delete": "Delete"
+            }
+        }
+    }
+}
